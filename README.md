@@ -5,7 +5,7 @@
 
 
 ## ディレクトリ構成 (Contents)
-* `基本構文.scpt` : SELECT, WHERE, JOIN などの基本構文
+* `sql_basic.py` : SELECT, WHERE, JOIN などの基本構文
 * `exercises/` : 練習問題や競技SQLの解答コード
 
 ## 備考
